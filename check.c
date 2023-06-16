@@ -1,5 +1,3 @@
-// I, Max Goetz (730465187), pledge that I have neither given nor received unauthorized aid on this assignment.
-
 #include <setjmp.h>
 #include <signal.h>
 #include <stdio.h>
