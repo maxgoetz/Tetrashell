@@ -1,4 +1,3 @@
-// I, Max Goetz (730465187), pledge that I have neither given nor received unauthorized aid on this assignment.
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
