@@ -7,7 +7,7 @@
    ╚═╝   ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
                                                                                    
 
-Tetrashell is a command line interface that allows you to perform many different functions on a tetris quicksave.
+Tetrashell is a command line interface coded in vim that allows you to perform many different functions on a tetris quicksave.
 
 Available Commands:
 1. **Rank**
@@ -57,4 +57,4 @@ Available Commands:
 **Other Features**
 	Improved Prompt featuring username, score, and rank, all in Tarheel blue.
 
-_Author: Max Goetz_
+_Author of all functions and tetrashell: Max Goetz_
