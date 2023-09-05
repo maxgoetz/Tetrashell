@@ -56,5 +56,3 @@ Available Commands:
 
 **Other Features**
 	Improved Prompt featuring username, score, and rank, all in Tarheel blue.
-
-_Author of all functions and tetrashell: Max Goetz_
